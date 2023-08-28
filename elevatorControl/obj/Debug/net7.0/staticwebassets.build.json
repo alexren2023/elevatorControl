@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G5I6dmUa80burVgSzO6QPGWhZNHH55kY1sNON9dyZ0w=",
+  "Source": "elevatorControl",
+  "BasePath": "_content/elevatorControl",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
